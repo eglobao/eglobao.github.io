@@ -8,3 +8,5 @@ Illinois
 Colorado
 <iframe src="https://freesecure.timeanddate.com/clock/i5gclv6v/n75/fn13/ftb/bts0/bbs0/th2/ta1" frameborder="0" width="161" height="18"></iframe>
 
+Missouri
+<iframe src="http://free.timeanddate.com/clock/i6062axy/n405/fn7/fs20/tct/pct/ftb/th2" frameborder="0" width="128" height="30" allowTransparency="true"></iframe>
